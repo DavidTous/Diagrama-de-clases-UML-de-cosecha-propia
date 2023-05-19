@@ -12,4 +12,4 @@ La clase Cliente tiene una relación de agregación con la clase Alquiler (un cl
 La clase Empleado tiene una relación de agregación con la clase Alquiler (un empleado puede tener varios alquileres) y una relación de asociación con la clase Cobro (un empleado registra cobros). 
 
 La clase Cobro tiene una relación de asociación con la clase Alquiler (un cobro está asociado a un alquiler).
-![image](https://github.com/DavidTous/Diagrama-de-clases-UML-de-cosecha-propia/assets/118205695/d0df5398-b6c9-4afa-badf-97641d7468bf)
+![image](https://github.com/DavidTous/Diagrama-de-clases-UML-de-cosecha-propia/assets/118205695/4c1bd918-9de2-4a22-b8a9-f94cea05b87b)
